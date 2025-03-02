@@ -4,8 +4,6 @@ This text was added for the first commit in the new-branch
 
 This text was added for the second commit in the new-branch
 
-<<<<<<< HEAD
 This text for the Task 56_tests branch
-=======
+
 This text was added for the first commit in the Task123_Tests branch
->>>>>>> Task123_Tests
