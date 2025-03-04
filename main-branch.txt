@@ -1,9 +1,3 @@
 This text was added in the main branch
 
-This text was added for the first commit in the new-branch
-
-This text was added for the second commit in the new-branch
-
-This text for the Task 56_tests branch
-
-This text was added for the first commit in the Task123_Tests branch
+This text was added in the branch 1
