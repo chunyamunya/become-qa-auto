@@ -1,9 +1,0 @@
-This text was added in the main branch
-
-This text was added in the branch 1
-
-This text was added in the branch2
-
-def TASK-56_Create_tests():
-	pass
-
